@@ -1,0 +1,26 @@
+DLL File: b'kernel32.dll'
+Functions: 
+0x4070d0 b'LoadLibraryA'
+0x4070d4 b'ExitProcess'
+0x4070d8 b'GetProcAddress'
+0x4070dc b'VirtualProtect'
+
+
+DLL File: b'msvcrt.dll'
+Functions: 
+0x4070e4 b'atol'
+
+
+DLL File: b'shell32.dll'
+Functions: 
+0x4070ec b'SHChangeNotify'
+
+
+DLL File: b'user32.dll'
+Functions: 
+0x4070f4 b'LoadStringA'
+
+
+DLL File: b'ws2_32.dll'
+Functions: 
+0x4070fc b'closesocket'
